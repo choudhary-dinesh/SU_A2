@@ -1,2 +1,2 @@
 # SU_A2
-Speech Understanding Assignment 2
+Public Repo for Speech Understanding Assignment 2 by Dinesh Kumar (M22AIE227)
